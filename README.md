@@ -1,6 +1,6 @@
 # Selling Page
 
 This is the sample application for
-[*Prototipo de venta de autos*]{pagina por definirse}
+[*Prototipo de venta de autos*]{www.pagina por definirse.com}
 
-by [Diego Coutinho]
+by Diego Coutinho
