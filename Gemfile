@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.0.4'
 
+gem 'simple_form'
+
 
 group :production do
 	gem 'pg'
